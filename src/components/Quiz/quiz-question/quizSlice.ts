@@ -1,7 +1,7 @@
 
 import { createSlice  } from '@reduxjs/toolkit';
 import data from "../../../questions.json";
-console.log("data",data)
+
 interface QuizState {
     value: any, 
     //  questions:any
