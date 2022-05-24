@@ -1,0 +1,529 @@
+[
+    {
+      "id": 1,
+      "questionText": "What is the capital of France?",
+      "answerOptions": [
+        {
+          "answerText": "New York",
+          "isCorrect": false
+        },
+        {
+          "answerText": "London",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Paris",
+          "isCorrect": true
+        },
+        {
+          "answerText": "Dublin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "Who is CEO of Tesla?",
+      "answerOptions": [
+        {
+          "answerText": "Jeff Bezos",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Elon Musk",
+          "isCorrect": true
+        },
+        {
+          "answerText": "Bill Gates",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Tony Stark",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "The iPhone was created by which company?",
+      "answerOptions": [
+        {
+          "answerText": "Apple",
+          "isCorrect": true
+        },
+        {
+          "answerText": "Intel",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Amazon",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Microsoft",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "How many Harry Potter books are there?",
+      "answerOptions": [
+        {
+          "answerText": "1",
+          "isCorrect": false
+        },
+        {
+          "answerText": "4",
+          "isCorrect": false
+        },
+        {
+          "answerText": "6",
+          "isCorrect": false
+        },
+        {
+          "answerText": "7",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "questionText": "Which city has higghest poppulation in India ?",
+      "answerOptions": [
+        {
+          "answerText": "Ahemdabad",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Delhi",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Goa",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Mumbai",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "questionText": "Which is national animal of India",
+      "answerOptions": [
+        {
+          "answerText": "Fox",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Raino",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Lion",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Tiger",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "questionText": "Which is national bird of India ?",
+      "answerOptions": [
+        {
+          "answerText": "Falcon",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Dove",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Crow",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Peacock",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "questionText": "Which is state animal of Gujrat ?",
+      "answerOptions": [
+        {
+          "answerText": "Cat",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Bear",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Tiger",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Lion",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "questionText": "Which is state bird of Gujrat ?",
+      "answerOptions": [
+        {
+          "answerText": "Owl",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Sparrow",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Crow",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Flamingo",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "questionText": "Which one of the following river flows between Vindhyan and Satpura ranges?",
+      "answerOptions": [
+        {
+          "answerText": "Ganga",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Mahi",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Tapi",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Narmada",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "questionText": "The Central Rice Research Station is situated in?",
+      "answerOptions": [
+        {
+          "answerText": "Banglore",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Chennai",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Quilon",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Cuttak",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "questionText": "Who among the following wrote Sanskrit grammar?",
+      "answerOptions": [
+        {
+          "answerText": "Charak",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Kalidas",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Aaryabhatt",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Panini",
+          "isCorrect": true
+        }
+      ]
+    },
+    {"id": 13,
+      "questionText": "Which among the following headstreams meets the Ganges in last?",
+      "answerOptions": [
+        {
+          "answerText": "Alaknanda",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Pindar",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Mandakini",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Bhagirathi",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "questionText": "The metal whose salts are sensitive to light is?",
+      "answerOptions": [
+        {
+          "answerText": "Zinc",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Copper",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Aluminium",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Silver",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "questionText": "Which one of the following rivers originates in Brahmagiri range of Western Ghats?",
+      "answerOptions": [
+        {
+          "answerText": "Pennar",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Krishna",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Tapi",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Cauvery",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "questionText": "The country that has the highest in Barley Production?",
+      "answerOptions": [
+        {
+          "answerText": "France",
+          "isCorrect": false
+        },
+        {
+          "answerText": "China",
+          "isCorrect": false
+        },
+        {
+          "answerText": "India",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Russia",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "questionText": "Tsunamis are not caused by",
+      "answerOptions": [
+        {
+          "answerText": "Earthquakes",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Undersea landslides",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Volcanic eruptions",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Hurricanes",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "questionText": "Chambal river is a part of –",
+      "answerOptions": [
+        {
+          "answerText": "Sabarmati basin",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Ganga basin",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Godavari basin",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Narmada basin",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "questionText": "Volcanic eruption do not occur in the",
+      "answerOptions": [
+        {
+          "answerText": "Black sea",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Caribbean sea",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Caspian sea",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Baltic sea",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "questionText": "Indus river originates in –",
+      "answerOptions": [
+        {
+          "answerText": "Ladakh",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Kinnaur",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Nepal",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Tibet",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "questionText": "The hottest planet in the solar system?",
+      "answerOptions": [
+        {
+          "answerText": "Mercury",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Mars",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Jupiter",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Venus",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "questionText": "With which of the following rivers does Chambal river merge?",
+      "answerOptions": [
+        {
+          "answerText": "Ganga",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Banas",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Narmada",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Yamuna",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "questionText": "Where was the electricity supply first introduced in India –",
+      "answerOptions": [
+        {
+          "answerText": "Mumbai",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Dehradun",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Chennai",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Darjeeling",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "questionText": "Which peninsular river is least seasonal in flow?",
+      "answerOptions": [
+        {
+          "answerText": "Narmada",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Krishna",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Cauvery",
+          "isCorrect": false
+        },
+        {
+          "answerText": "Godavari",
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
