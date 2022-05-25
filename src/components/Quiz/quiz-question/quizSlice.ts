@@ -3,7 +3,7 @@ import { createSlice  } from '@reduxjs/toolkit';
 import data from "../../../questions.json";
 
 interface QuizState {
-    value: any, 
+    value: Array<object>, 
     //  questions:any
 }
 
